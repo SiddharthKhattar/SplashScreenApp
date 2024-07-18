@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/mainbackground"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -15,4 +16,5 @@
         android:layout_gravity="center"
         android:layout_marginTop="220dp"
         app:srcCompat="@drawable/apple" />
+
 </LinearLayout>
