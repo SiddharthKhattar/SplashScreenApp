@@ -4,3 +4,4 @@ The splash screen experience brings standard design elements to every app launch
 
 I've built the splash screen using the Handler.postDelayed() function along with supportActionBar?.hide() to hide the top part of the screen.
 
+After Update: the base app's UI has now been overhauled with color gradients along with a brand new sign up screen
